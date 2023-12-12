@@ -1,0 +1,5 @@
+**/*.apk
+**/*.jar
+**/*.json
+**/*.keystore
+**/*-cache/
